@@ -1,0 +1,19 @@
+{
+  "name": "grace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "Grace",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.4",
+    "vuepress-theme-reco": "^0.3.11"
+  }
+}
