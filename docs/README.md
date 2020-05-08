@@ -1,11 +1,8 @@
 ---
-home: true
-heroImage: /images/Studyplan.png
-heroImageStyle: {
-  maxHeight: '200px',
-  display: block,
-  margin: '6rem auto 1.5rem',
-  # borderRadius: '50%',
-  boxShadow: '0 5px 18px rgba(0,0,0,0.2)'
-}
+一、git clone 
+二、安装依赖
+三、运行
+四、打包
+
+
 ---
