@@ -31,6 +31,10 @@ module.exports = {
                 {
                   text: '唐巧',
                   link: 'http://blog.devtang.com/2020/01/01/2019-summary/'
+                },
+                {
+                  text: '夜尽天明',
+                  link: 'https://biaochenxuying.cn/'
                 }
             ]},
             { text: '关于我', link: '/myNews/' },

@@ -7,7 +7,9 @@ author: grace
 
 爱好：运动、编程
 
-联系QQ：1372912729
+联系QQ：1372912729 
 
-微信号：zhangruibo-love
+联系QQ2：2807354601
+
+微信号：GraceMark7
 
