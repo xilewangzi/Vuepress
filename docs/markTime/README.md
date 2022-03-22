@@ -1,9 +1,11 @@
 ---
-isTimeLine: true
+title: Life
+isCategories: true
 sidebar: false
 isComment: false
 ---
 
-## 文章
+## 生活
+
 
 

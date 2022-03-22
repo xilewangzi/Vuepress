@@ -13,3 +13,5 @@ author: grace
 
 微信号：GraceMark7
 
+[vuepress-theme-reco 官方文档](https://vuepress-theme-reco.recoluan.com/)
+

@@ -13,7 +13,10 @@
   "author": "Grace",
   "license": "ISC",
   "dependencies": {
-    "vuepress": "^0.14.4",
+    "start": "^5.1.0",
+    "vuepress": "^0.14.4"
+  },
+  "devDependencies": {
     "vuepress-theme-reco": "^0.3.11"
   }
 }

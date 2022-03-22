@@ -1,6 +1,6 @@
 module.exports = {
     title:"Grace's Blog",
-    description: '技术、生活、信仰',
+    description: '信仰、工作、生活',
     theme: 'reco',
     head: [
         // ['link', { rel: 'icon',href: 'theme/favicon.ico'}],
@@ -9,7 +9,8 @@ module.exports = {
     themeConfig: {
       nav: [
             {text: '首页',link: '/'},
-            { text: '文章', link: '/markTime/' },
+            { text: '生活', link: '/markTime/' },
+            { text: '工作', link: '/techNology/' },
             { text: '归档', link: '/timeLine/' },
             { text: '分类',
             items: [
@@ -18,7 +19,7 @@ module.exports = {
               { text: '工作', link: '/categories/Work' }
             ]
              },
-            { text: '标签', link: '/tag/' },
+            { text: '标签', link: '/tags/' },
             {text: '博客', items: [
                 {
                     text: '山月行',
@@ -44,7 +45,11 @@ module.exports = {
       blogConfig: {
         markTime: {
           location: 5,     // 在导航栏菜单中所占的位置，默认2
-          text: '文章' // 默认文案 “分类”
+          text: '生活' // 默认文案 “分类”
+        },
+        techNology: {
+          location: 6,     // 在导航栏菜单中所占的位置，默认2
+          text: '工作' // 默认文案 “分类”
         },
         category: {
           location: 2,     // 在导航栏菜单中所占的位置，默认2
