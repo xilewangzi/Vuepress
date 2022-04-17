@@ -22,8 +22,12 @@ module.exports = {
             { text: '标签', link: '/tags/' },
             {text: '博客', items: [
                 {
-                    text: '山月行',
-                    link: 'https://shanyue.tech/'
+                  text: '山月行',
+                  link: 'https://shanyue.tech/'
+                },
+                {
+                    text: '大厂面试每日一题',
+                    link: 'https://q.shanyue.tech/'
                 },
                 {
                   text: '刘向洋',
